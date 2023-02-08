@@ -1,0 +1,16 @@
+id: I049B4414
+default_language: bo
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 16:01:46.141384
+last_modified: 2023-02-08 16:01:46.141524
+source_metadata:
+  title: 'Vasubandhu: Abhidharmakośabhāṣya'
+  language: bo
+bases:
+  EBF0:
+    base_file: EBF0.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
